@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+.btn{
+    width:200px;
+    height:200px;
+    border-radius:20px;
+    text-align:center;
+    border:5px solid black;
+    margin:20px;
+}
+.btn-container{
+    display:flex;
+    justify-content: center;
+    
+}
+.first{
+    margin: 20px;
+}
+.second{
+    margin:20px;
+}
+.blue{
+    background-color:blue;
+}
+.red{
+    background-color:red;
+}
+.orange{
+    background-color:orange;
+}
+.brown{
+    background-color:brown;
+}
+.flash{
+    background-color:white;
+}
+.userflash{
+    background-color: black;
+
+}
